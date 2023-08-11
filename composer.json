@@ -1,0 +1,17 @@
+{
+    "name": "mds/umbrella-v2",
+    "autoload": {
+        "psr-4": {
+            "Mds\\UmbrellaV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maudelinDS",
+            "email": "maudelin.delescaut@jobtrek.ch"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
